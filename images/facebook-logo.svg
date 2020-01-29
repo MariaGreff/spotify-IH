@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Spotify-home-page" transform="translate(-1461.000000, -1046.000000)">
+            <g id="Facebook" transform="translate(1461.000000, 1046.000000)">
+                <circle id="Facebook-background" fill="#222326" cx="27" cy="27" r="27"></circle>
+                <g id="facebook-logo-button" transform="translate(21.000000, 15.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M10.4,11.76 L7.1688,11.76 C7.1688,16.9224 7.1688,23.2768 7.1688,23.2768 L2.3808,23.2768 C2.3808,23.2768 2.3808,16.984 2.3808,11.76 L0.1048,11.76 L0.1048,7.6896 L2.3808,7.6896 L2.3808,5.0568 C2.3808,3.1712 3.2768,0.2248 7.2128,0.2248 L10.7608,0.2384 L10.7608,4.1896 C10.7608,4.1896 8.6048,4.1896 8.1856,4.1896 C7.7664,4.1896 7.1704,4.3992 7.1704,5.2984 L7.1704,7.6904 L10.8184,7.6904 L10.4,11.76 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
